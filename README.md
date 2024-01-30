@@ -11,3 +11,4 @@ This is a todo app website
 
 ## How to run
 - streamlit run todo_app.py
+- Or you could check the to_do website directly by the following url: haokunfeng-todoapp.azurewebsites.net
